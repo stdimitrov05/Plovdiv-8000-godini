@@ -1,0 +1,24 @@
+{
+  "output": "video.mp4",
+  "seconds_per_slide": 5,
+  "transition": 1.0,
+  "voice": "bg-BG-KalinaNeural",
+  "slides": [
+    {
+      "image": "photos/1.jpg",
+      "title": "Заглавие на видеото",
+      "text": "Кратък описателен текст под заглавието",
+      "narration": "Здравейте! Добре дошли в нашето видео."
+    },
+    {
+      "image": "photos/2.jpg",
+      "title": "Втора снимка",
+      "narration": "Тук е втората снимка."
+    },
+    {
+      "image": "photos/3.jpg",
+      "text": "Снимка без заглавие, само с текст и глас",
+      "narration": "Благодаря за вниманието."
+    }
+  ]
+}
